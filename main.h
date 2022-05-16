@@ -8,10 +8,10 @@
 #include <unistd.h>
 
 /**
- * struct format - matches the conversion specifiers for printf 
+ * struct format - matches the conversion specifiers for printf
  * @id: type char pointer of the specifier
  * @f: type pointer to function for the conversion specifier
- * 
+ *
  */
 
 typedef struct format
